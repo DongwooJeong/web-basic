@@ -7,3 +7,5 @@
 * paragraph: <p>paragraph</p>
     + <p></p> tag can only make specified amount of margin 
         + CSS: <p style="margin-top:45px;">
+* attribute
+    + image tag: <img src="a.jpg" width="n%">
