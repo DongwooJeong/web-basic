@@ -9,3 +9,7 @@
         + CSS: <p style="margin-top:45px;">
 * attribute
     + image tag: <img src="a.jpg" width="n%">
+* parent tag and child tag
+    + list: <li>name</li>
+    + unordered list - parent tag of <li> tag: <ul>list</ul>
+* ordered list - automatically number the list: <ol>list</ol>
