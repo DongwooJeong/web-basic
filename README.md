@@ -19,3 +19,4 @@
         + list: <li>name</li>
         + unordered list - parent tag of <li> tag: <ul>list</ul>
     * ordered list - automatically number the list: <ol>list</ol>
+    * link: <a href="link.html">hyperlink</a>
